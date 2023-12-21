@@ -48,7 +48,7 @@
             <div class=" w-full max-w-[400px] flex flex-col items-center space-y-8">
                 <div class=" flex items-start h-[2.75rem]">
                      <button class=" rounded-l-lg bg-[#87C38F] hover:bg-[#87C38F] duration-200 hover:text-[#F4F0BB]  w-[8rem] h-full text-[#F4F0BB] font-inter text-xl font-medium">Live</button>
-                     <button class=" rounded-r-lg bg-[#F4F0BB] hover:bg-[#87C38F] duration-200 hover:text-[#F4F0BB] w-[8rem] h-full text-[#43291F] font-inter text-xl font-medium">Live</button>
+                     <button class=" rounded-r-lg bg-[#F4F0BB] hover:bg-[#87C38F] duration-200 hover:text-[#F4F0BB] w-[8rem] h-full text-[#43291F] font-inter text-xl font-medium">History</button>
                 </div>
 
                 <div class=" w-full rounded-[0.75rem] bg-[#43291F] bg-opacity-40 h-[13.75rem] flex">
